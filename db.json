@@ -1,0 +1,87 @@
+{
+  "products": [
+    {
+      "name": "Pizza with pepperoni",
+      "imageUrl": "https://img-fotki.yandex.ru/get/987895/2449448.99/0_17e8e9_fb02601f_orig",
+      "category": "pizza",
+      "id": "62273ecdbb6d37d7d706ef11",
+      "price": 9.02
+    },
+    {
+      "name": "Pizza with halapenjo",
+      "imageUrl": "https://img-fotki.yandex.ru/get/369579/2449448.99/0_17e8ea_8d3bfb3f_orig",
+      "category": "pizza",
+      "id": "62273ecd76fe450f9c99a9c9",
+      "price": 3.84
+    },
+    {
+      "name": "Pizza with cucumbers",
+      "imageUrl": "https://img-fotki.yandex.ru/get/1032271/2449448.99/0_17e8eb_1852c62b_orig",
+      "category": "pizza",
+      "id": "62273ecdc11ea19aed6908c9",
+      "price": 5.08
+    },
+    {
+      "name": "Pizza with cheese",
+      "imageUrl": "https://img-fotki.yandex.ru/get/1028274/2449448.99/0_17e8ec_88cd0c3e_orig",
+      "category": "pizza",
+      "id": "62273ecd01df5f68c6cff887",
+      "price": 3.63
+    },
+    {
+      "name": "Pizza with meat",
+      "imageUrl": "https://img-fotki.yandex.ru/get/9118/981986.4d/0_88696_8b7bf003_orig",
+      "category": "pizza",
+      "id": "62273ecdd35d2072ff9aef19",
+      "price": 7.83
+    },
+    {
+      "name": "Pizza without anything",
+      "imageUrl": "https://img-fotki.yandex.ru/get/9261/981986.4d/0_88697_f5a15bc7_orig",
+      "category": "pizza",
+      "id": "62273ecd6b123c2edd804b61",
+      "price": 6.39
+    },
+    {
+      "name": "Pizza with pepper",
+      "imageUrl": "https://img-fotki.yandex.ru/get/9225/981986.4d/0_88698_6895d767_orig",
+      "category": "pizza",
+      "id": "62273ecdf38e2ddc8b35df4f",
+      "price": 2.29
+    },
+    {
+      "name": "Pizza with sausages",
+      "imageUrl": "https://img-fotki.yandex.ru/get/9301/981986.4d/0_8877a_64237209_orig",
+      "category": "pizza",
+      "id": "62273ecdeb3a24a80dd1",
+      "price": 1.45
+    },
+    {
+      "name": "Soup with sausages",
+      "imageUrl": "https://img-fotki.yandex.ru/get/52/2449448.3c/0_11bd62_4b6ec62_orig",
+      "category": "soups",
+      "id": "62273ecdbb6d37d7d7",
+      "price": 9.02
+    },
+    {
+      "name": "Soup with vegetables",
+      "imageUrl": "http://img.lenagold.ru/s/sup/sup032.png",
+      "category": "soups",
+      "id": "62273ecd76fe450f9",
+      "price": 3.84
+    },
+    {
+      "name": "Soup with potato",
+      "imageUrl": "http://img.lenagold.ru/s/sup/sup024.png",
+      "category": "soups",
+      "id": "62273ecdc11ea19ae",
+      "price": 5.08
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "pizza"
+    }
+  ]
+}
